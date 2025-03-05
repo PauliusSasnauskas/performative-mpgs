@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__
+data
+figs
+log
+wandb
+env.sh
+.pytest_cache
